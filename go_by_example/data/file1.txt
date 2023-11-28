@@ -1,0 +1,4 @@
+I like programming
+I like Python
+I like Machine Learning
+I like Lightning
