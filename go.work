@@ -1,0 +1,11 @@
+go 1.21.3
+
+use (
+	./GoCookbook
+	./GoDemo
+	./learning_go/chap_1
+	./learning_go/chap_2
+	./learning_go/chap_3
+	./restful_go
+	./web_service
+)
