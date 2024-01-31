@@ -13,7 +13,7 @@ func BubbleSort(input []int) []int {
 	return input
 }
 
-func main() {
+func MainTest() {
 	fmt.Println("Bubble sort in Go")
 	unsorted_input := []int{5, 3, 4, 1, 2}
 	sorted := BubbleSort(unsorted_input)
