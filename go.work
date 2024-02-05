@@ -3,6 +3,8 @@ go 1.21.3
 use (
 	./GoCookbook
 	./GoDemo
+	./go_algorithms
+	./learn_go_tests
 	./learning_go/chap_1
 	./learning_go/chap_2
 	./learning_go/chap_3
